@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=/home/icub/router-scripts/shutdown_icubrouter.sh
+Name=Router off
+Comment=Properly shuts down the router so that you can unplug it
+Icon=/home/icub/router-scripts/power-button.png
